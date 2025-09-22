@@ -1,0 +1,8 @@
+# Clone o repositório
+git clone https://github.com/seu-usuario/amigo-secreto.git
+
+# Entre no diretório
+cd amigo-secreto
+
+# Instale as dependências
+[comando de instalação específico]
