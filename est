@@ -1,0 +1,6 @@
+amigo-secreto/
+├── src/                 # Código fonte
+├── data/               # Arquivos de dados
+├── tests/              # Testes unitários
+├── README.md
+└── requirements.txt    # Dependências (se aplicável)
